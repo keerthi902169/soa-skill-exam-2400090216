@@ -1,0 +1,5 @@
+package com.maintenance.repository;
+
+public class AssetMaintenanceRepositoryTest {
+
+}
